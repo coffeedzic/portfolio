@@ -34,7 +34,7 @@ const About = () => {
             <li>Bosnia and Herzegovina</li>
             <li>edin@coffeedzic.com</li>
             <li>+38761572137</li>
-            <li>Employed ( Teneo & Bloola )</li>
+            <li>Employed</li>
           </ul>
         </div>
       </div>
@@ -55,7 +55,7 @@ const About = () => {
               bloola GmbH & Co. KG <span className="date">2022 - today</span>
             </div>
             <div className="target">
-              Frontend developer <span className="type">PART TIME</span>
+              Frontend developer
             </div>
           </div>
           <div className="description">
@@ -68,7 +68,7 @@ const About = () => {
         <div className="item">
           <div className="heading">
             <div className="main">
-              Teneo <span className="date">2021 - today</span>
+              Teneo <span className="date">2021 - 2022</span>
             </div>
             <div className="target">
               Software developer
